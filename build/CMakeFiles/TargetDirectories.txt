@@ -1,4 +1,0 @@
-/home/caiyit/ICS46/build/CMakeFiles/intro_lab.dir
-/home/caiyit/ICS46/build/CMakeFiles/intro_lab_tests.dir
-/home/caiyit/ICS46/build/CMakeFiles/edit_cache.dir
-/home/caiyit/ICS46/build/CMakeFiles/rebuild_cache.dir
